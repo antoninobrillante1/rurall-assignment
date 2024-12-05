@@ -8,9 +8,11 @@
 <body>
     <h2>📁 Struttura</h2>
     <pre>
-├── data/                    # Dati geografici e NDVI
-├── rurall_assignment/       # Analisi in Jupyter
-└── README.md                # Documentazione
+├── rurall_assignment.ipynb                                        # Analisi in Jupyter
+├── resa_girasoli_2022.gpkg                                        # Dataset fornito
+├── Limiti01012024_g/                                              # Dati di confini amministrativi scaricati da ISTAT
+├── 2024-11-03-00_00_2024-11-03-23_59_Sentinel-2_L2A_NDVI.tiff     # Dati con NDVI per l'area attorno a Jolanda di Savoia scaricati da Sentinel data
+└── README.md                                                      # Documentazione
     </pre>
 
   <h2>⚙️ Prerequisiti</h2>
